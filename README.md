@@ -1,5 +1,5 @@
 # FireFighter
-Fire Fighters mesh network monitoring
+Fire Fighters mesh network monitoring a minimalistic app that can be implememnted on IoT device for First Responders personals to insure there safty.
 
 ### Contents: 
 server, node, filesManager 
