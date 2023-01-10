@@ -1,0 +1,12 @@
+[
+{
+"name": "Node6",
+"critical": 0,
+"heart": 120,
+"oxygen": 99.18,
+"toxic": 0.76,
+"source": "Ethernet",
+"latitude": 32.603794,
+"longitude": -85.492081
+}
+]
