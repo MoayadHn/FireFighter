@@ -1,0 +1,16 @@
+Node 1 Moayads-Mini.T-mobile.com 10140 32.601505 -85.487289 Link 2 10 11 13
+Node 2 Moayads-Mini.T-mobile.com 10141 32.601757 -85.486664 Link 1 3 9 10 11 13
+Node 3 Moayads-Mini.T-mobile.com 10142 32.601585 -85.485985 Link 2 4 5 9 10 11 12 13
+Node 4 Moayads-Mini.T-mobile.com 10143 32.601559 -85.485619 Link 3 5 9 11 12 14
+Node 5 Moayads-Mini.T-mobile.com 10144 32.601662 -85.485161 Link 3 4 6 9 12 14
+Node 6 Moayads-Mini.T-mobile.com 10145 32.601658 -85.484322 Link 5 7 8 12 14 15 16
+Node 7 Moayads-Mini.T-mobile.com 10146 32.601543 -85.484009 Link 6 8 14 15 16
+Node 8 Moayads-Mini.T-mobile.com 10147 32.601551 -85.483322 Link 6 7 15 16
+Node 9 Moayads-Mini.T-mobile.com 10148 32.602051 -85.485977 Link 2 3 4 5 10 11 12
+Node 10 Moayads-Mini.T-mobile.com 10149 32.601883 -85.486778 Link 1 2 3 9 11 13
+Node 11 Moayads-Mini.T-mobile.com 10150 32.601307 -85.486282 Link 1 2 3 4 9 10 12 13
+Node 12 Moayads-Mini.T-mobile.com 10151 32.601391 -85.485313 Link 3 4 5 6 9 11 14
+Node 13 Moayads-Mini.T-mobile.com 10152 32.601364 -85.486794 Link 1 2 3 10 11
+Node 14 Moayads-Mini.T-mobile.com 10153 32.601879 -85.484642 Link 4 5 6 7 12 16
+Node 15 Moayads-Mini.T-mobile.com 10154 32.601219 -85.483818 Link 6 7 8 16
+Node 16 Moayads-Mini.T-mobile.com 10155 32.602055 -85.483673 Link
