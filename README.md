@@ -74,7 +74,7 @@ replace the value [YOUR_MAP_API_KEY] at line 168 with your actual API key from g
 ```sh
 sed 's/YOUR_MAP_API_KEY/ACTUAL_KEY/g' index.jsp
 ```
-4) Open the website index.html in a web browser (Preferable Firefox) for real time monitoring
+5) Open the website index.html in a web browser (Preferable Firefox) for real time monitoring
 
 To change the drop rate for each ethernet or manners you have to user the settings file. reading the file will be dynamic for every node. 
 ### Configuration files
