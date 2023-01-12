@@ -68,6 +68,12 @@ example:
 ```sh
 ./fileManager -f conf -n 4
 ```
+4) Add your Google map api key to the file index.jsp
+replace the value [YOUR_MAP_API_KEY] at line 168 with your actual API key from google map developers. 
+
+```sh
+sed 's/YOUR_MAP_API_KEY/ACTUAL_KEY/g' index.jsp
+```
 4) Open the website index.html in a web browser (Preferable Firefox) for real time monitoring
 
 To change the drop rate for each ethernet or manners you have to user the settings file. reading the file will be dynamic for every node. 
