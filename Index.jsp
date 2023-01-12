@@ -165,7 +165,7 @@ out.println("Current Time: " + CT + "\n");
 </div>
 
 
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDR0rmFa8zJzxnNeTtsDIJloQpdC5WWsmg&sensor=false"></script>
+<script src="http://maps.google.com/maps/api/js?key=YOUR_MAP_API_KEY&sensor=false"></script>
 <script type="text/javascript">
     jQuery(function ($) {
         function init_map1() {
